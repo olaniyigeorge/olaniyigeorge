@@ -13,7 +13,7 @@
 **Databases:** PostgreSQL, SQLite
 **RESTful APIs:** Django REST Framework
 **Version Control:** Git, GitHub
-**Deployment:** Netlify, Render, AWS, Docker
+**Deployment:** Render, AWS, Docker
 <!---
 olaniyigeorge/olaniyigeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
