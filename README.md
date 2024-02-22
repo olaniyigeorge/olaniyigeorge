@@ -8,7 +8,7 @@
 
 
 ## Tools/Skills
-**Backend development:** Python Django, Remix-run
+**Backend development:**  Django, Python, Remix-run
 **Frontend development:** Remix-run, React, Typescript, TailwindCSS
 **Databases:** PostgreSQL, SQLite
 **RESTful APIs:** Django REST Framework
