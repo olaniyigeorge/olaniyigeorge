@@ -23,10 +23,7 @@ LangChain, OpenAI APIs, AWS (Lambda, S3, EC2)
 WebSockets, Redis, Celery  
 
 ### **Deployment & DevOps:**  
-Render, Docker, GitHub Actions  
-
-### **Version Control:**  
-Git, GitHub  
+Render, Vercel, Docker, GitHub Actions  
 
 <!---
 olaniyigeorge/olaniyigeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
