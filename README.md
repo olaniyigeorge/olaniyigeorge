@@ -7,22 +7,17 @@
 
 ## Tools/Skills  
 
-### **Backend Development:**  
+#### **Backend Development:**  
 FastAPI, Python, Django, Node.js  
-
-### **Frontend Development:**  
+#### **Frontend Development:**  
 Next.js, React, TypeScript, TailwindCSS  
-
-### **Databases:**  
+#### **Databases:**  
 PostgreSQL, MongoDB, SQLite  
-
-### **AI & Cloud Services:**  
+#### **AI & Cloud Services:**  
 LangChain, OpenAI APIs, AWS (Lambda, S3, EC2)  
-
-### **Realtime & WebSockets:**  
+#### **Realtime & WebSockets:**  
 WebSockets, Redis, Celery  
-
-### **Deployment & DevOps:**  
+#### **Deployment & DevOps:**  
 Render, Vercel, Docker, GitHub Actions  
 
 <!---
