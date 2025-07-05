@@ -46,12 +46,16 @@ Tailored for African savings groups like Ajo/Esusu. Enables trustless group savi
 
 **Backend**  
 `Python` · `FastAPI` · `Django` · `TypeScript` · `Node.js` · `Next.js`
+
 **Frontend**  
 `Next.js` · `React` · `TypeScript` · `TailwindCSS`
+
 **Databases**  
 `PostgreSQL` · `MongoDB` · `SQLite`
+
 **AI & Cloud**  
 `PydanticAI` · `LangChain` · `AWS (Lambda, S3, EC2)` ·`Render` · `Vercel`
+
 **Realtime & DevOps**  
 `WebSockets` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `Render` · `Vercel`
 
