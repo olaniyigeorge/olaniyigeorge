@@ -31,14 +31,14 @@ Here are some projects I’ve been building or contributing to:
 ### 🔐 [LockedIn](https://github.com/olaniyigeorge/lockedin)
 > **AI-powered habit-building platform**  
 Helps users build consistency and discipline through verified accountability systems.  
-**Tech:** `Next.js`, `TypeScript`, `FastAPI`, `LangChain`, `OpenAI`
+**Tech:** `Next.js`, `TypeScript`, `LangChain`, `OpenAI`
 
 ---
 
 ### 🏦 [CoopWise](https://github.com/olaniyigeorge/coopwise)
 > **Programmable escrow + cooperative group platform**  
 Tailored for African savings groups like Ajo/Esusu. Enables trustless group savings with smart contract logic and fiat/stablecoin ramps.  
-**Tech:** `FastAPI`, `PostgreSQL`, `Redis`, `Next.js`, `Smart Contracts`, `CashRamp`
+**Tech:** `FastAPI`, `PostgreSQL`, `Redis`, `Next.js`, `Smart Contracts`, `Paystack`, `CashRamp`
 
 ---
 
@@ -48,7 +48,7 @@ Tailored for African savings groups like Ajo/Esusu. Enables trustless group savi
 `Python` · `FastAPI` · `Django` · `TypeScript` · `Node.js` · `Next.js`
 
 **Frontend**  
-`Next.js` · `React` · `TypeScript` · `TailwindCSS`
+`Next.js` · `React` · `TypeScript` · `Framer-Motion` · `TailwindCSS`  
 
 **Databases**  
 `PostgreSQL` · `MongoDB` · `SQLite`
