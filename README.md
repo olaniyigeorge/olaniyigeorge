@@ -1,81 +1,50 @@
-<!-- GitHub Profile README.md -->
+# Olaniyi George · Software & AI Engineer
 
-<h1 align="center">Hi, I'm Olaniyi Abeleje 👋</h1>
-<p align="center">
-  🚀 Software Engineer • 💡 Problem Solver • 🌍 Impact-Driven Builder
-</p>
-<p align="center">
-  <a href="mailto:olaniyigeorge77@gmail.com">📫 Email</a> •
-  <a href="https://twitter.com/abeleje_olaniyi">🐦 Twitter</a> •
-  <a href="https://github.com/olaniyigeorge">🐙 GitHub</a>
-</p>
+Backend-focused engineer building scalable systems and AI-driven products. I care about clean architecture, long-term maintainability, and shipping software that actually solves problems — especially for overlooked or underserved use cases.
+
+Currently enrolled in the **ALX Pro Backend Development** program and actively building in public.
+
+**Goal:** contribute to products that positively impact 10,000+ people per year.
 
 ---
 
-## 🧭 About Me
+## What I'm building
 
-I'm a backend-focused software engineer with a passion for building systems that make life easier and more efficient at scale.
+### [CoopWise](https://github.com/olaniyigeorge/coopwise)
+Programmable cooperative savings platform for African Ajo/Esusu groups. Trustless group escrow with smart contract logic, fiat on-ramps, and stablecoin payouts.
 
-Currently enrolled in the **ALX Pro Backend Development** program, I’m focused on deepening my backend engineering skills while solving real-world problems through tech.
+`FastAPI` `PostgreSQL` `Redis` `Next.js` `EVM` `Flow` `Zama FHEVM` `Paystack`
 
-💡 I’m driven by the goal of helping products and platforms **positively impact at least 10,000 people per year**, especially those that serve overlooked or underserved use cases—regardless of location or demographic.
+### [TrueFit.ai](https://github.com/olaniyigeorge/truefit)
+AI-powered interview assistant that runs automated mock interviews at scale with real-time voice interaction, scoring, and tailored feedback.
 
-Whether it's AI-powered tools, cooperative finance systems, productivity apps, or entirely new spaces, I’m excited about building **scalable, maintainable, and meaningful software**.
+`FastAPI` `WebRTC` `Gemini Live API` `Next.js` `PostgreSQL`
 
----
+### [LockedIn](https://github.com/olaniyigeorge/lockedin)
+Habit-building platform with verified accountability systems to help users build consistency.
 
-## 🔭 What I'm Working On
-
-Here are some projects I’ve been building or contributing to:
-
-### 🔐 [LockedIn](https://github.com/olaniyigeorge/lockedin)
-> **AI-powered habit-building platform**  
-Helps users build consistency and discipline through verified accountability systems.  
-**Tech:** `Next.js`, `TypeScript`, `LangChain`, `OpenAI`
+`Next.js` `TypeScript` `LangChain` `OpenAI`
 
 ---
 
-### 🏦 [CoopWise](https://github.com/olaniyigeorge/coopwise)
-> **Programmable escrow + cooperative group platform**  
-Tailored for African savings groups like Ajo/Esusu. Enables trustless group savings with smart contract logic and fiat/stablecoin ramps.  
-**Tech:** `FastAPI`, `PostgreSQL`, `Redis`, `Next.js`, `Smart Contracts`, `Paystack`, `CashRamp`
+## Stack
+
+| Layer | Tools |
+|---|---|
+| **Backend** | Python · FastAPI · Django · Node.js · TypeScript |
+| **Frontend** | Next.js · React · Tailwind CSS · Framer Motion |
+| **Data** | PostgreSQL · MongoDB · Redis · SQLite |
+| **AI** | OpenAI API · Gemini · LangChain · PydanticAI |
+| **Infra** | Docker · AWS · Render · Vercel · GitHub Actions |
+| **Realtime** | WebSockets · WebRTC · Celery |
+| **Blockchain** | EVM · Solidity · Flow · Cadence · Zama FHEVM |
 
 ---
 
-## ⚙️ My Tech Stack
+## Connect
 
-**Backend**  
-`Python` · `FastAPI` · `Django` · `TypeScript` · `Node.js` · `Next.js`
-
-**Frontend**  
-`Next.js` · `React` · `TypeScript` · `Framer-Motion` · `TailwindCSS`  
-
-**Databases**  
-`PostgreSQL` · `MongoDB` · `SQLite`
-
-**AI & Cloud**  
-`PydanticAI` · `LangChain` · `AWS (Lambda, S3, EC2)` ·`Render` · `Vercel`
-
-**Realtime & DevOps**  
-`WebSockets` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `Render` · `Vercel`
+[olaniyigeorge77@gmail.com](mailto:olaniyigeorge77@gmail.com) · [@abeleje_olaniyi](https://twitter.com/abeleje_olaniyi) · [LinkedIn](https://www.linkedin.com/in/abeleje-olaniyi/) · [Portfolio](https://olaniyigeorge.vercel.app)
 
 ---
 
-## 🎯 Goals & Aspirations
-
-- 🌍 Contribute to products that help at least **10,000+ people per year**
-- 🧠 Grow as a backend architect through real-world experience
-- 🤝 Collaborate on open-source and community-driven projects
-- 🧱 Build systems that are **technically solid, socially useful, and human-centered**
-
----
-
-## 🤝 Let’s Connect
-
-📫 Email: [olaniyigeorge77@gmail.com](mailto:olaniyigeorge77@gmail.com)  
-🐦 Twitter: [@abeleje_olaniyi](https://twitter.com/abeleje_olaniyi)  
-🔗 LinkedIn: [Abeleje Olaniyi](https://www.linkedin.com/in/abeleje-olaniyi/)
-
----
-
-> _“Real growth happens when you solve problems that matter.”_
+> *"Real growth happens when you solve problems that matter."*
