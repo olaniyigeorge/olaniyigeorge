@@ -1,50 +1,37 @@
-# Olaniyi George · Software & AI Engineer
+# Olaniyi George - Backend & AI Systems Engineer
 
-Backend-focused engineer building scalable systems and AI-driven products. I care about clean architecture, long-term maintainability, and shipping software that actually solves problems — especially for overlooked or underserved use cases.
+I build production systems that operate AI models inside real infrastructure, not wrappers around an API. Real-time audio pipelines, domain-driven backends, fintech-grade transaction handling.
 
-Currently enrolled in the **ALX Pro Backend Development** program and actively building in public.
-
-**Goal:** contribute to products that positively impact 10,000+ people per year.
+**Currently:** open to senior backend / AI systems / founding engineer roles (remote, global).
 
 ---
 
-## What I'm building
+## Flagship: Truefit.ai
+Real-time AI voice interview platform. Candidates talk to an AI interviewer over a dual-channel WebRTC/WebSocket architecture; Gemini Live drives a tool-calling interview state machine with zero infrastructure dependencies in the core agent.
 
-### [CoopWise](https://github.com/olaniyigeorge/coopwise)
-Programmable cooperative savings platform for African Ajo/Esusu groups. Trustless group escrow with smart contract logic, fiat on-ramps, and stablecoin payouts.
+Engineering highlight: diagnosed and fixed a compound audio bug — a greedy queue-drain collapsing 40 chunks into one `recv()` call, layered with a pts-clock reset that corrupted frame pacing — which caused an infinite greeting loop that made the system unshippable. [Full writeup →](https://olaniyigeorge.vercel.app/dev-stories/69cad8f4a7ba63fe57bc87f1)
 
-`FastAPI` `PostgreSQL` `Redis` `Next.js` `EVM` `Flow` `Zama FHEVM` `Paystack`
+`FastAPI` `aiortc/WebRTC` `Gemini Live API` `PostgreSQL` `Redis` `Domain-driven design`
 
-### [TrueFit.ai](https://github.com/olaniyigeorge/truefit)
-AI-powered interview assistant that runs automated mock interviews at scale with real-time voice interaction, scoring, and tailored feedback.
+## CoopWise
+Cooperative savings platform digitizing Ajo/Esusu for African groups - idempotent contribution/payout handling, a three-queue Celery system, AI-driven financial insights, and stablecoin escrow on Flow.
 
-`FastAPI` `WebRTC` `Gemini Live API` `Next.js` `PostgreSQL`
+`FastAPI` `PostgreSQL` `Celery` `Redis` `Next.js` `Flow/Cadence` `Paystack`
 
-### [LockedIn](https://github.com/olaniyigeorge/lockedin)
-Habit-building platform with verified accountability systems to help users build consistency.
+## LockedIn
+Habit-accountability platform with AI-verified consistency tracking.
 
-`Next.js` `TypeScript` `LangChain` `OpenAI`
+`Next.js` `TypeScript` `LangChain`
 
 ---
 
 ## Stack
-
-| Layer | Tools |
+| | |
 |---|---|
 | **Backend** | Python · FastAPI · Django · Node.js · TypeScript |
-| **Frontend** | Next.js · React · Tailwind CSS · Framer Motion |
-| **Data** | PostgreSQL · MongoDB · Redis · SQLite |
-| **AI** | OpenAI API · Gemini · LangChain · PydanticAI |
-| **Infra** | Docker · AWS · Render · Vercel · GitHub Actions |
-| **Realtime** | WebSockets · WebRTC · Celery |
-| **Blockchain** | EVM · Solidity · Flow · Cadence · Zama FHEVM |
-
----
+| **Real-time** | WebRTC · WebSockets · Celery |
+| **AI** | Gemini Live API · OpenAI API · LangChain · PydanticAI |
+| **Data/Infra** | PostgreSQL · Redis · Docker · AWS · GCP · Railway/Vercel |
 
 ## Connect
-
-[olaniyigeorge77@gmail.com](mailto:olaniyigeorge77@gmail.com) · [@abeleje_olaniyi](https://twitter.com/abeleje_olaniyi) · [LinkedIn](https://www.linkedin.com/in/abeleje-olaniyi/) · [Portfolio](https://olaniyigeorge.vercel.app)
-
----
-
-> *"Real growth happens when you solve problems that matter."*
+[Portfolio](https://olaniyigeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abeleje-olaniyi) · olaniyigeorge77@gmail.com
