@@ -1,4 +1,4 @@
-# Olaniyi George - Backend & AI Systems Engineer
+# Olaniyi George - Software & AI Engineer
 
 I build production systems that operate AI models inside real infrastructure, not wrappers around an API. Real-time audio pipelines, domain-driven backends, fintech-grade transaction handling.
 
