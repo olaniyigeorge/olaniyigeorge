@@ -6,10 +6,10 @@ I build production systems that operate AI models inside real infrastructure, no
 
 ---
 
-## Flagship: Truefit.ai
+## Flagship: [Truefit.ai](https://olaniyigeorge.com/work/truefit-ai)
 Real-time AI voice interview platform. Candidates talk to an AI interviewer over a dual-channel WebRTC/WebSocket architecture; Gemini Live drives a tool-calling interview state machine with zero infrastructure dependencies in the core agent.
 
-Engineering highlight: diagnosed and fixed a compound audio bug — a greedy queue-drain collapsing 40 chunks into one `recv()` call, layered with a pts-clock reset that corrupted frame pacing — which caused an infinite greeting loop that made the system unshippable. [Full writeup →](https://olaniyigeorge.vercel.app/dev-stories/69cad8f4a7ba63fe57bc87f1)
+Engineering highlight: diagnosed and fixed a compound audio bug — a greedy queue-drain collapsing 40 chunks into one `recv()` call, layered with a pts-clock reset that corrupted frame pacing — which caused an infinite greeting loop that made the system unshippable. [Full writeup →](https://olaniyigeorge.com/dev-stories/69cad8f4a7ba63fe57bc87f1)
 
 `FastAPI` `aiortc/WebRTC` `Gemini Live API` `PostgreSQL` `Redis` `Domain-driven design`
 
@@ -34,4 +34,4 @@ Habit-accountability platform with AI-verified consistency tracking.
 | **Data/Infra** | PostgreSQL · Redis · Docker · AWS · GCP · Railway/Vercel |
 
 ## Connect
-[Portfolio](https://olaniyigeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abeleje-olaniyi) · olaniyigeorge77@gmail.com
+[Portfolio](https://olaniyigeorge.com) · [LinkedIn](https://www.linkedin.com/in/abeleje-olaniyi) · olaniyi@olaniyigeorge.com
